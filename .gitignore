@@ -1,4 +1,3 @@
-.__pycache__
+# Imitir carpetas de cache python
 
-# Byte-compiled / optimized / DLL files
-
+__pycache__
